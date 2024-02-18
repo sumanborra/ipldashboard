@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.list-items {
+  border: 2px solid #ffffff;
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  width: 450px;
+  border-radius: 18px;
+  margin: 15px;
+  
+}
+.image-match-card {
+  margin-right: 5px;
+  height: 150px;
+}
+.match-card-heading-text {
+  font-family: 'Bree serif';
+  font-size: 26px;
+  color: #ffffff;
+}
